@@ -23,8 +23,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
   <React.StrictMode>
-    {/* <App /> */}
-    {/* chapter 03 */}
+    <App />
     {/* <Library /> */}
     {/* <Clock/> */}
     {/* <CommentList/> */}
@@ -37,7 +36,7 @@ root.render(
     {/* <Calculator /> */}
     {/* <ProfileCard /> */}
     {/* <DarkOrLight></DarkOrLight> */}
-    <Blocks></Blocks>
+    {/* <Blocks></Blocks> */}
   </React.StrictMode>
 );
 
